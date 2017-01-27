@@ -1,0 +1,33 @@
+/*element tga from html*/
+		div {background-color: green;}
+
+	/*class tages*/
+		.one {padding-bottom: 100px }
+
+	 /*id tags*/
+
+		/*#id darcy {width 50%;}*/
+
+		@media (min-width: 768px) 
+		{
+			div {
+			background-color: yellow;
+			float: left;
+			margin: 1%;
+			width: 31%;
+			}
+		}
+
+		@media (min-width: 1000px) {
+
+				/*.two {
+
+					display: none;
+
+
+
+				}*/
+
+
+
+		}
